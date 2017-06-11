@@ -1,0 +1,36 @@
+body{
+	width: 100%;
+	margin: auto;
+	background-color: grey;
+}
+
+h1, p{
+	text-align: center;
+}
+
+p{
+	font-size: 20px;
+}
+
+.container{
+	background-color: white;
+	margin: auto;
+	padding: 5px;
+}
+
+.circuit{
+	width: 75px;
+	height: 75px;
+	border: 1px solid grey;
+	margin: 10px;
+	border-radius: 50%;
+	float: left;
+}
+
+.choosed{
+	background-color: blue;
+}
+
+.wrong{
+	background-color: red;
+}
